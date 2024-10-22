@@ -1,14 +1,14 @@
 {
-  "name": "cli-command",
-  "version": "0.0.1",
-  "description": "",
+  "name": "cli-command-validator",
+  "version": "0.1.0",
+  "description": "Command validation utility.",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
   "keywords": [],
   "author": "KalmonJ",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "typescript": "^5.6.3"
   },
